@@ -1,1 +1,1 @@
-# 03-slider
+https://sliderobjects.website.yandexcloud.net/
